@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WeatherApp
+build_property.RootNamespace = WeatherApp
+build_property.ProjectDir = /Users/alexanderkorzh/Projects/WeatherApp/WeatherApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/alexanderkorzh/Projects/WeatherApp/WeatherApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/alexanderkorzh/Projects/WeatherApp/WeatherApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexanderkorzh/Projects/WeatherApp/WeatherApp/Views/WebPage/HistoricalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2ViUGFnZS9IaXN0b3JpY2FsRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexanderkorzh/Projects/WeatherApp/WeatherApp/Views/WebPage/Hourly.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2ViUGFnZS9Ib3VybHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexanderkorzh/Projects/WeatherApp/WeatherApp/Views/WebPage/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2ViUGFnZS9NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexanderkorzh/Projects/WeatherApp/WeatherApp/Views/WebPage/Monthly.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2ViUGFnZS9Nb250aGx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexanderkorzh/Projects/WeatherApp/WeatherApp/Views/WebPage/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2ViUGFnZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alexanderkorzh/Projects/WeatherApp/WeatherApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

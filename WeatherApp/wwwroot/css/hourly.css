@@ -1,0 +1,142 @@
+﻿.NavLogo {
+    display: flex;
+}
+
+body {
+    background-color: #E8E8E8;
+}
+
+.WeatherIcon {
+    width: 60px;
+    height: 60px;
+}
+
+.navItem {
+/*    margin-top: 10px;*/
+}
+
+
+
+
+.TopLeftCorner {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-left: 10px;
+}
+
+
+
+.list {
+    margin-top: 300px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+
+.WeathetFormSmall {
+    background-color: white;
+    width: 700px;
+    margin-top: 30px;
+}
+
+.CurrentWeatherIconSmall {
+    width: 80px;
+    height: 80px;
+}
+
+.WeatherTextSmall {
+    font-size: 70px;
+}
+
+.WeatherTextContrainerSmall {
+    display: flex;
+    align-items: center;
+}
+
+.WeathetStatsSmall {
+    margin-left: 100px;
+}
+
+
+.WeatherTextGroup {
+    text-align: center;
+}
+
+
+    .WeatherTextGroup h1,
+    .WeatherTextGroup h5 {
+        margin: 0;
+        padding: 0;
+    }
+
+
+.FeelsLikeSmall {
+    font-size: 15px;
+}
+
+
+.CurrentWeatherLogoSmall {
+    display: flex;
+    margin-left: 80px;
+}
+
+
+
+.FurtherAhead {
+    margin-top: 10px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 500px;
+}
+
+
+.MargFurtherAheadLi {
+    margin-top: 35px;
+}
+
+.FurtherAheadLi {
+    border-bottom: 1px solid #C0C0C0;
+    width: 700px;
+}
+
+
+.FurtherAheadTitle {
+    font-size: 12px;
+    text-decoration: none;
+    color: inherit;
+    font-weight: 200;
+}
+
+.FurtherAheadSubTitle:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.FurtherAheadSubTitle {
+    font-size: 18px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.MargBottomFurtherAheadLi {
+/*    margin-bottom: 100px;*/
+}
+
+.WeatherIndicetor {
+    font-size: 15px;
+}
+
+
+.icon-arrow {
+    float: right;
+    margin-top: 5px;
+}
